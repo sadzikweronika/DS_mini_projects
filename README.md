@@ -1,3 +1,3 @@
-# Data-Science-mini-projects
+# Data Science mini projects
 
-Repo which contains my mini projects in the field of Data Science. They all contain both EDA and applying Machine Learning. 
+Repo which contains my projects in the field of Data Science. They all contain both EDA and applying Machine Learning. 
